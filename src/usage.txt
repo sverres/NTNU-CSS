@@ -1,1 +1,2 @@
-<script async="async" src="https://raw.githubusercontent.com/sverres/NTNU-CSS/master/src/bb.css"></script>
+<p><script async="async" src="https://folk.ntnu.no/sverrsti/bb/bb.js"></script></p>
+

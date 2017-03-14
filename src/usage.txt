@@ -1,2 +1,0 @@
-<p><script async="async" src="https://folk.ntnu.no/sverrsti/bb/bb.js"></script></p>
-

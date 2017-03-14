@@ -1,0 +1,2 @@
+<p><script async="async" src="https://folk.ntnu.no/sverrsti/bb-css/20170314/pure.js"></script></p>
+<p><script async="async" src="https://folk.ntnu.no/sverrsti/bb-css/20170314/vintage-romantic.js"></script></p>

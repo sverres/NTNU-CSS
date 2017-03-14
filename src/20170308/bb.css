@@ -7,9 +7,6 @@
 #content a:hover { background-color: hsl(45,100%,80%); }
 #content article * { font-family: Verdana, Helvetica, Arial, sans-serif; }
 
-#content { background: #FFFFFF}
-#content h1,h2,h3,h4,h5 {color: #337ab7}
-
 #content code {
     font-family: 'Ubuntu Mono';
     display: inline-block;
@@ -31,11 +28,11 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
     border-collapse: collapse;
     border-spacing: 0;
     empty-cells: show;
-    border: 1px solid #cbcbcb;
+    border: 1px solid #67727A;
 }
 
 #content table caption {
-    color: #000;
+    color: #F5F5F5;
     font: italic 85%/1 arial, sans-serif;
     padding: 1em 0;
     text-align: center;
@@ -43,7 +40,7 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
 
 #content table td,
 #content table th {
-    border-left: 1px solid #cbcbcb;/*  inner column border */
+    border-left: 1px solid #67727A;/*  inner column border */
     border-width: 0 0 0 1px;
     font-size: inherit;
     margin: 0;
@@ -52,15 +49,15 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
 }
 
 #content table thead {
-    background-color: #e0e0e0;
-    color: #000;
+    background-color: #6991AC;
+    color: #fff;
     text-align: left;
     vertical-align: bottom;
 }
 
 /* nth-child selector for modern browsers */
 #content table tr:nth-child(2n-1) td {
-    background-color: #f2f2f2;
+    background-color: #C3D7DF;
 }
 
 
